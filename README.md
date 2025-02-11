@@ -6,7 +6,11 @@
 2.在编码知识库文件后，调整`RLG-RAG_test.py`中的可选参数以测试RLG-RAG的效果
 ## Document Introduction
 1.`Knowledge_Graph_Node.py`：用于定义推理图结点
+
 2.`Knowledge_Graph_Util.py`：用于定义推理图运作的必需工具函数
+
 3.`RLG-RAG_test.py`：用于定义完整的系统运行流程，并实现完整的RLG-RAG推理流程
+
 4.`kb.py`：用于定义知识库加载、使用的工具类
+
 5.`knowledgebase_processing.py`：用于处理形如`psgs_w100.tsv`格式的知识库文件

@@ -16,3 +16,5 @@
 4.`kb.py`：用于定义知识库加载、使用的工具类
 
 5.`knowledgebase_processing.py`：用于处理形如`psgs_w100.tsv`格式的知识库文件
+# Update
+我们给出了一种基于云端模型的系统实现方案，详见`resource-constrained`文件夹
